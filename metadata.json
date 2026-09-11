@@ -1,0 +1,6 @@
+{
+  "name": "Luxstudio Beauty Salon",
+  "description": "Official website for Luxstudio in London featuring interactive map, business hours, customer reviews, photo gallery, and contact booking form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
